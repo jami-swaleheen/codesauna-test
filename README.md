@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Welcome! 👋
 
-First, run the development server:
+Thanks for checking out this front-end coding challenge. This is an evaluation task for the job application due to a high number of applicants. The evaluation criteria will be 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ - Adherence to the design - Pixel Perfect design
+ - Understanding of Requirements on the first go(No Scope for Q&A Clarifications during the challenge)
+ - Availability of Developer
+ - Speed of Development
+ - Code Quality
+ - Best practices
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+We reserve the right to reject the candidate if the above criteria is not met.
+We reserve the right to final decisions.
+Acceptance to the challenge is not a guarantee for the job.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## The challenge
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Your challenge is to build out this results summary component and get it looking as close to the design as possible.
+We provide the data for the results in a local `data.json` file. You can use that to add the results and total score dynamically.
 
-## Learn More
+Your users should be able to:
 
-To learn more about Next.js, take a look at the following resources:
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+- Use the local JSON data to dynamically populate the content
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Where to find everything
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
-## Deploy on Vercel
+The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+
+There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+
+## Building your project
+
+
+1. Initialize your project as a public repository on [GitHub](https://github.com/). 
+2. Configure your repository to publish your code to a web address. \
+3. Deploy your project to Vercel - [Vercel](https://vercel.com/)
+
+## Submitting your solution
+
+Submit your solution link in the Upwork platform.
+
