@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import { dummyData } from "../../../data";
 import SummaryBox from "../common/SummaryBox";
@@ -51,7 +53,7 @@ const ResultCard = () => {
               <SummaryBox key={key} {...data} />
             ))}
           </div>
-          <Button text="Continue" />
+          <Button text="Continue" onClick={() => {}} />
         </div>
       </div>
     </div>
@@ -59,4 +61,3 @@ const ResultCard = () => {
 };
 
 export default ResultCard;
-7   
